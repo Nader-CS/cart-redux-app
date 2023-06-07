@@ -10,7 +10,7 @@ This project involves these technologies : **React** , **Redux toolkit**
 
 API that is used in this project : **[course-api](https://course-api.com/react-useReducer-cart-project)** to receive cart items.
 
-#Screenshoot
+# Screenshoot
 
 ![screencapture-localhost-3000-2023-06-07-23_19_37](https://github.com/Nader-CS/Tea-Station/assets/110199723/a5fb9563-fbd1-4519-b5f0-c465fa1d9e41)
 
